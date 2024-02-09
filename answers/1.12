@@ -1,0 +1,1 @@
+docker run --name frontend -d -e WS_BACK_URL=127.17.0.3:8080 joalie/my-python-app:front
